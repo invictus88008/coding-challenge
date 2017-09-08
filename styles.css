@@ -1,0 +1,26 @@
+body {
+    background:#FBF3E6;
+}
+.section-title {
+    text-align:center;
+}
+.menu-item-name {
+    color: #1F3E63;
+    font-size:20px;
+}
+.description-container {
+    display:block;
+}
+.description {
+    font-size:12px;
+    color:#788798;
+    font-weight:300;
+    max-width:70%;
+    display: inline-block;
+}
+.price {
+    font-size:12px;
+    color:#788798;
+    max-width:30%;
+    float: right;
+}
